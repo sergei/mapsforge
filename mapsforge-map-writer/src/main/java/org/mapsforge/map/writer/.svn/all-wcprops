@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer
+END
+BaseTileBasedDataProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer/BaseTileBasedDataProcessor.java
+END
+WayPolygonizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer/WayPolygonizer.java
+END
+HDTileBasedDataProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer/HDTileBasedDataProcessor.java
+END
+HDTileData.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer/HDTileData.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer/package-info.java
+END
+RAMTileBasedDataProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer/RAMTileBasedDataProcessor.java
+END
+OSMTagMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer/OSMTagMapping.java
+END
+RAMTileData.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer/RAMTileData.java
+END
+Serializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer/Serializer.java
+END
+DeltaEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer/DeltaEncoder.java
+END
+MapFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer/MapFileWriter.java
+END

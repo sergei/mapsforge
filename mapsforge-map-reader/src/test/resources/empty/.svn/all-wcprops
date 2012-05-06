@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/test/resources/empty
+END
+empty.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/test/resources/empty/empty.sh
+END
+empty.map
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/test/resources/empty/empty.map
+END
+empty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/test/resources/empty/empty.xml
+END

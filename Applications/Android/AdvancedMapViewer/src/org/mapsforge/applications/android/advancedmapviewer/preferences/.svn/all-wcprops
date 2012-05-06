@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/src/org/mapsforge/applications/android/advancedmapviewer/preferences
+END
+MoveSpeedPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/src/org/mapsforge/applications/android/advancedmapviewer/preferences/MoveSpeedPreference.java
+END
+EditPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/src/org/mapsforge/applications/android/advancedmapviewer/preferences/EditPreferences.java
+END
+SeekBarPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/src/org/mapsforge/applications/android/advancedmapviewer/preferences/SeekBarPreference.java
+END
+CacheSizePreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/src/org/mapsforge/applications/android/advancedmapviewer/preferences/CacheSizePreference.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer
+END
+ShapePaintContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer/ShapePaintContainer.java
+END
+PointTextContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer/PointTextContainer.java
+END
+DependencyCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer/DependencyCache.java
+END
+ShapeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer/ShapeType.java
+END
+WayContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer/WayContainer.java
+END
+WayDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer/WayDecorator.java
+END
+ShapeContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer/ShapeContainer.java
+END
+CircleContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer/CircleContainer.java
+END
+ExternalRenderTheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer/ExternalRenderTheme.java
+END
+WayTextContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer/WayTextContainer.java
+END
+SymbolContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer/SymbolContainer.java
+END
+LabelPlacement.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer/LabelPlacement.java
+END
+GeometryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer/GeometryUtils.java
+END
+CanvasRasterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer/CanvasRasterer.java
+END
+ImmutablePoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer/ImmutablePoint.java
+END
+DatabaseRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/mapgenerator/databaserenderer/DatabaseRenderer.java
+END

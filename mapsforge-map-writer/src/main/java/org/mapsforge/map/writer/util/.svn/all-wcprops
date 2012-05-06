@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer/util
+END
+OSMUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer/util/OSMUtils.java
+END
+JTSUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer/util/JTSUtils.java
+END
+GeoUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer/util/GeoUtils.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/main/java/org/mapsforge/map/writer/util/Constants.java
+END

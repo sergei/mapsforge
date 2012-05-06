@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1969/tags/0.3.0/javadoc/org/mapsforge/android/maps/mapgenerator/class-use
+END
+MapGeneratorFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1969/tags/0.3.0/javadoc/org/mapsforge/android/maps/mapgenerator/class-use/MapGeneratorFactory.html
+END
+JobTheme.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1969/tags/0.3.0/javadoc/org/mapsforge/android/maps/mapgenerator/class-use/JobTheme.html
+END
+JobParameters.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1969/tags/0.3.0/javadoc/org/mapsforge/android/maps/mapgenerator/class-use/JobParameters.html
+END
+MapGeneratorJob.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1969/tags/0.3.0/javadoc/org/mapsforge/android/maps/mapgenerator/class-use/MapGeneratorJob.html
+END
+JobQueue.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1969/tags/0.3.0/javadoc/org/mapsforge/android/maps/mapgenerator/class-use/JobQueue.html
+END
+MapGeneratorInternal.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1969/tags/0.3.0/javadoc/org/mapsforge/android/maps/mapgenerator/class-use/MapGeneratorInternal.html
+END
+InMemoryTileCache.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1969/tags/0.3.0/javadoc/org/mapsforge/android/maps/mapgenerator/class-use/InMemoryTileCache.html
+END
+TileCache.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1969/tags/0.3.0/javadoc/org/mapsforge/android/maps/mapgenerator/class-use/TileCache.html
+END
+MapGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1969/tags/0.3.0/javadoc/org/mapsforge/android/maps/mapgenerator/class-use/MapGenerator.html
+END
+FileSystemTileCache.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1969/tags/0.3.0/javadoc/org/mapsforge/android/maps/mapgenerator/class-use/FileSystemTileCache.html
+END
+MapWorker.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1969/tags/0.3.0/javadoc/org/mapsforge/android/maps/mapgenerator/class-use/MapWorker.html
+END

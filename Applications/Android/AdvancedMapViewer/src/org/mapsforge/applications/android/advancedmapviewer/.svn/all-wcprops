@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/src/org/mapsforge/applications/android/advancedmapviewer
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/src/org/mapsforge/applications/android/advancedmapviewer/FileUtils.java
+END
+ScreenshotCapturer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/src/org/mapsforge/applications/android/advancedmapviewer/ScreenshotCapturer.java
+END
+MyLocationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/src/org/mapsforge/applications/android/advancedmapviewer/MyLocationListener.java
+END
+AdvancedMapViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/src/org/mapsforge/applications/android/advancedmapviewer/AdvancedMapViewer.java
+END
+InfoView.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/src/org/mapsforge/applications/android/advancedmapviewer/InfoView.java
+END
+SeekBarChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/src/org/mapsforge/applications/android/advancedmapviewer/SeekBarChangeListener.java
+END

@@ -1,0 +1,15 @@
+http://code.google.com/p/mapsforge/
+
+Version 0.3.0 (2012-03-18)
+
+New version of the binary map file format, see SpecificationBinaryMapFile.
+New render theme API for custom map styles. ( issue 31 )
+Allow for custom tile download classes. ( issue 204 )
+Position of the zoom controls is now configurable. ( issue 155 )
+The map scale bar supports metric and imperial units. ( issue 167 )
+A preferred language can now be set for the map-writer. ( issue 90 )
+Introduced maven as build system for the mapsforge project.
+Major refactoring of the package structure in the map library.
+Moved the map-reader code to a new, Android-independent subproject.
+Many other minor improvements and bugfixes.
+

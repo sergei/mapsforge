@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1963/tags/0.3.0/Applications/Android/Samples
+END
+.pmd_ruleset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/Samples/.pmd_ruleset.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1962/tags/0.3.0/Applications/Android/Samples/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/Samples/project.properties
+END
+COPYING.LESSER
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/Samples/COPYING.LESSER
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/Samples/.project
+END
+.checkstyle_rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/Samples/.checkstyle_rules.xml
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1963/tags/0.3.0/Applications/Android/Samples/AndroidManifest.xml
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/Samples/COPYING
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/Samples/.checkstyle
+END
+.pmd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/Samples/.pmd
+END

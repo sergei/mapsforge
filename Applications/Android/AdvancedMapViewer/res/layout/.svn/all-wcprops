@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/res/layout
+END
+dialog_enter_coordinates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/res/layout/dialog_enter_coordinates.xml
+END
+dialog_info_map_file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/res/layout/dialog_info_map_file.xml
+END
+activity_file_picker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/res/layout/activity_file_picker.xml
+END
+activity_advanced_map_viewer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1958/tags/0.3.0/Applications/Android/AdvancedMapViewer/res/layout/activity_advanced_map_viewer.xml
+END

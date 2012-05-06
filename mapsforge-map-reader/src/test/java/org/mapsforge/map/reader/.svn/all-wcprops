@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/test/java/org/mapsforge/map/reader
+END
+MapDatabaseWayNodeEncodingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/test/java/org/mapsforge/map/reader/MapDatabaseWayNodeEncodingTest.java
+END
+MapDatabaseEmptyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/test/java/org/mapsforge/map/reader/MapDatabaseEmptyTest.java
+END
+DeserializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/test/java/org/mapsforge/map/reader/DeserializerTest.java
+END
+MapDatabaseWithDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/test/java/org/mapsforge/map/reader/MapDatabaseWithDataTest.java
+END
+DummyMapDatabaseCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/test/java/org/mapsforge/map/reader/DummyMapDatabaseCallback.java
+END
+MapDatabaseFileHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/test/java/org/mapsforge/map/reader/MapDatabaseFileHeaderTest.java
+END

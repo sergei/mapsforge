@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/core
+END
+MapPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/core/MapPosition.java
+END
+GeoPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/core/GeoPoint.java
+END
+LRUCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/core/LRUCache.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/core/IOUtils.java
+END
+MercatorProjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/core/MercatorProjection.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/core/Tag.java
+END
+Tile.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/core/Tile.java
+END
+BoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/core/BoundingBox.java
+END

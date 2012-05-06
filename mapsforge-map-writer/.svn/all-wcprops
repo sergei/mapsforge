@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/pom.xml
+END

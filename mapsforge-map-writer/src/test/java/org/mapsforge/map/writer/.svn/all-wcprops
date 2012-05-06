@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/test/java/org/mapsforge/map/writer
+END
+WayPolygonizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/test/java/org/mapsforge/map/writer/WayPolygonizerTest.java
+END
+SerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/test/java/org/mapsforge/map/writer/SerializerTest.java
+END
+DeltaEncoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/test/java/org/mapsforge/map/writer/DeltaEncoderTest.java
+END
+MapFileWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-writer/src/test/java/org/mapsforge/map/writer/MapFileWriterTest.java
+END

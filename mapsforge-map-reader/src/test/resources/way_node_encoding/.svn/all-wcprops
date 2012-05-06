@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/test/resources/way_node_encoding
+END
+double_delta.map
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/test/resources/way_node_encoding/double_delta.map
+END
+way_node_encoding.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/test/resources/way_node_encoding/way_node_encoding.sh
+END
+single_delta.map
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/test/resources/way_node_encoding/single_delta.map
+END
+way_node_encoding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/test/resources/way_node_encoding/way_node_encoding.xml
+END

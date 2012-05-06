@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/rendertheme/renderinstruction
+END
+Circle.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/rendertheme/renderinstruction/Circle.java
+END
+RenderInstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/rendertheme/renderinstruction/RenderInstruction.java
+END
+PathText.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/rendertheme/renderinstruction/PathText.java
+END
+Symbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/rendertheme/renderinstruction/Symbol.java
+END
+Line.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/rendertheme/renderinstruction/Line.java
+END
+FontStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/rendertheme/renderinstruction/FontStyle.java
+END
+Area.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/rendertheme/renderinstruction/Area.java
+END
+FontFamily.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/rendertheme/renderinstruction/FontFamily.java
+END
+LineSymbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/rendertheme/renderinstruction/LineSymbol.java
+END
+BitmapUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/rendertheme/renderinstruction/BitmapUtils.java
+END
+TextKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/rendertheme/renderinstruction/TextKey.java
+END
+Caption.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/rendertheme/renderinstruction/Caption.java
+END

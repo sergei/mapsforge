@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/overlay
+END
+OverlayItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/overlay/OverlayItem.java
+END
+ArrayWayOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/overlay/ArrayWayOverlay.java
+END
+Overlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/overlay/Overlay.java
+END
+OverlayWay.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/overlay/OverlayWay.java
+END
+ArrayCircleOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/overlay/ArrayCircleOverlay.java
+END
+WayOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/overlay/WayOverlay.java
+END
+OverlayCircle.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/overlay/OverlayCircle.java
+END
+CircleOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/overlay/CircleOverlay.java
+END
+ArrayItemizedOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/overlay/ArrayItemizedOverlay.java
+END
+ItemizedOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/overlay/ItemizedOverlay.java
+END
+OverlayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map/src/main/java/org/mapsforge/android/maps/overlay/OverlayList.java
+END

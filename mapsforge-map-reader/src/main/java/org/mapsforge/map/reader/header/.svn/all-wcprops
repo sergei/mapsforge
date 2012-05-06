@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/header
+END
+MapFileInfoBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/header/MapFileInfoBuilder.java
+END
+FileOpenResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/header/FileOpenResult.java
+END
+SubFileParameterBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/header/SubFileParameterBuilder.java
+END
+MapFileHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/header/MapFileHeader.java
+END
+RequiredFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/header/RequiredFields.java
+END
+MapFileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/header/MapFileInfo.java
+END
+SubFileParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/header/SubFileParameter.java
+END
+OptionalFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/header/OptionalFields.java
+END

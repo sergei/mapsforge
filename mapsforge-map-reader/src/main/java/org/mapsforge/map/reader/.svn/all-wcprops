@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader
+END
+MapDatabaseCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/MapDatabaseCallback.java
+END
+MapDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/MapDatabase.java
+END
+Deserializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/Deserializer.java
+END
+ReadBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/ReadBuffer.java
+END
+IndexCacheEntryKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/IndexCacheEntryKey.java
+END
+QueryCalculations.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/QueryCalculations.java
+END
+QueryParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/QueryParameters.java
+END
+IndexCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1958/tags/0.3.0/mapsforge-map-reader/src/main/java/org/mapsforge/map/reader/IndexCache.java
+END
